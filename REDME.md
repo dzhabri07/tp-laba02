@@ -87,22 +87,22 @@ $ gistup -m "lab${LAB_NUMBER}"
 
 ### Package Managers
 
-- [apt](http://help.ubuntu.ru/wiki/apt) | [dnf](https://en.wikipedia.org/wiki/DNF_(software)) | [yum](https://fedoraproject.org/wiki/Yum/ru)
+- [apt](http://help.ubuntu.ru/wiki/apt) | [dnf](https://en.wikipedia.org/wiki/DNF_(software)) | [yum] (https://fedoraproject.org/wiki/Yum/ru) //apt - пакетный менеджер
 - [brew](https://brew.sh) | [linuxbrew](http://linuxbrew.sh)
 - [npm](https://docs.npmjs.com)
 
 ### Software
 
-- [curl](https://www.gitbook.com/book/bagder/everything-curl/details)
-- [wget](https://www.gnu.org/software/wget/manual/wget.pdf)
-- [clang](https://clang.llvm.org)
-- [g++](https://gcc.gnu.org/onlinedocs/gcc-4.0.2/gcc/G_002b_002b-and-GCC.html)
-- [make](https://en.wikipedia.org/wiki/Make_(software))
+- [curl](https://www.gitbook.com/book/bagder/everything-curl/details) кроссплатформенная служебная программа командной строки, позволяющая взаимодействовать с множеством различных серверов по множеству различных протоколов с синтаксисом URL. 
+- [wget](https://www.gnu.org/software/wget/manual/wget.pdf) это пакет свободных программ для извлечения файлов с использованием HTTP, HTTPS, FTP и FTPS наиболее широко используемых интернет-протоколов
+- [clang](https://clang.llvm.org) является фронт-эндом для языков программирования C, C++, Objective-C и Objective-C++ (англ.), использующим для оптимизации и кодогенерации фреймворк LLVM.
+- [g++](https://gcc.gnu.org/onlinedocs/gcc-4.0.2/gcc/G_002b_002b-and-GCC.html)  компилятора языка C++
+- [make](https://en.wikipedia.org/wiki/Make_(software)) автоматически создает исполняемые программы и библиотеки из исходного кода путем чтения файлов Makefile
 - [open](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/open.1.html)
-- [openssl](https://www.openssl.org)
-- [nano](https://www.nano-editor.org)
-- [tree](https://linux.die.net/man/1/tree)
-- [vim](http://www.vim.org)
+- [openssl](https://www.openssl.org) криптографический пакет с открытым исходным кодом для работы с SSL/TLS.
+- [nano](https://www.nano-editor.org) консольный текстовый редактор
+- [tree](https://linux.die.net/man/1/tree) 
+- [vim](http://www.vim.org) консольный текстовый редактор
 
 ```
 Copyright (c) 2017 Братья Вершинины
